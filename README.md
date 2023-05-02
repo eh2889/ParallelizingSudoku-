@@ -8,7 +8,7 @@ Group project for COMS-3159 Parallel Optimization for Robotics.
 
 - [Rebekah Agwunobi](https://github.com/rebekahagwunobi23) - Simulated Annealing 
 - Jay Trevino - Dancing Links 
-- Erik Hannsen - A* Search 
+- Erik Hansen - A* Search 
 - Gulnur Avci - Dancing Links 
 
 
